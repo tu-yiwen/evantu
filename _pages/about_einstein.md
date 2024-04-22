@@ -1,5 +1,12 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
+
+
+Welcome to my corner of the internet! I'm a senior student at the University of Michigan, deeply immersed in the world of computer science. My academic journey has led me to a fascinating research niche: building trustworthy AI models for large-scale information systems. I'm passionate about aligning human values like privacy, copyright, and bias with AI, striving to create systems that are not only innovative but also human-regulatable. My focus is on safeguarding these systems against malicious adversaries, ensuring they serve future large-scale information system services without compromise.
+
+When I'm not coding or buried in research, I dive into the vibrant worlds of anime games. Titles like Honkai Starrail and Genshin Impact offer me a delightful escape, while classics such as Super Mario Kart and Hearthstone keep me entertained with their strategic depth. Music is another avenue where I find joy and inspiration. From the groovy beats of pop funk to the emotional depth of alternative and indie rock, and the catchy rhythms of pop rock, my playlists are as eclectic as my interests.
+
+This website is a snapshot of my life, both professional and personal. Here, you'll find insights into my research, glimpses into the games that captivate me, and perhaps a playlist or two. Join me on this journey as I navigate the final year of my undergraduate degree and look forward to the adventures that lie ahead in the realm of computer science and beyond.
