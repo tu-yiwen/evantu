@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-5-3 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Graduated from <a href = 'https://cse.engin.umich.edu'> University of Michigan, Ann Arbor, CSE  </a> with Summa Cum Laude!
