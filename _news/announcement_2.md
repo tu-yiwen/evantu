@@ -6,8 +6,4 @@ inline:  true
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
-
----
-
 Joined TRAIS lab in <a href= 'https://ischool.illinois.edu'> University of Illinois Urbana-Champaign </a> led by <a href='https://jiaqima.github.io'> Jiaqi Ma </a>
