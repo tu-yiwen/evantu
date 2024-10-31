@@ -25,3 +25,5 @@ social: true # includes social icons at the bottom of the page
   <li><em>Interpretable machine learning</em>, in the context of <em> data attribution </em>, <em> influence functions</em> </li>
 </ul>
 
+<p style="color: red;">I am actively looking for research or industry opportunities in machine learning. Please email me if you have relevant opportunities!</p>
+
