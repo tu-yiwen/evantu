@@ -6,7 +6,7 @@ subtitle: <a href='https://cse.ucsd.edu'>University of California, San Diego</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: my_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>3869 Miramar St</p>

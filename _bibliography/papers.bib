@@ -1,7 +1,7 @@
 %% This BibTeX bibliography file was created using BibDesk.
 %% https://bibdesk.sourceforge.io/
 
-%% Created for Evan Tu at 2024-10-28 13:55:36 -0700 
+%% Created for Evan Tu at 2024-10-30 20:11:29 -0700 
 
 
 %% Saved with string encoding Unicode (UTF-8) 
@@ -9,29 +9,37 @@
 
 
 @conference{tuDA4ML2024,
+	abstract = {Data attribution quantifies the influence of individual training data points on machine learning models, aiding in their interpretation and improvement. While prior work has primarily focused on single-task learning (STL), this work extends data attribution to multitask learning (MTL). Data attribution in MTL presents new opportunities for interpreting and improving MTL models while also introducing unique technical challenges. On the opportunity side, data attribution in MTL offers a natural way to efficiently measure task relatedness, a key factor that impacts the effectiveness of MTL. However, the shared and task-specific parameters in MTL models present challenges that require specialized data attribution methods. In this paper, we propose the MultiTask Influence Function (MTIF), a novel data attribution method tailored for MTL. MTIF leverages the structure of MTL models to efficiently estimate the impact of removing data points or excluding tasks on the predictions of specific target tasks, providing both data-level and task-level influence analysis. Extensive experiments on both linear and neural network models show that MTIF effectively approximates leave-one-out and leave-one-task-out effects. Moreover, MTIF facilitates fine-grained data selection, consistently improving model performance in MTL, and provides interpretable insights into task relatedness. Our work establishes a novel connection between data attribution and MTL, offering an efficient and scalable solution for measuring task relatedness and enhancing MTL models.},
 	author = {Yiwen Tu and Ziqi Liu and Jiaqi Ma and Weijing Tang},
 	booktitle = {NeurIPS Workshop on Attributing Model Behaviour at Scale},
 	date-added = {2024-10-28 13:32:39 -0700},
-	date-modified = {2024-10-28 13:55:28 -0700},
+	date-modified = {2024-10-30 20:11:23 -0700},
+	keywords = {Data Attribution, Influence Functions, Multitask Learning, Interpretable Machine Learning},
 	month = {September},
+	rating = {5},
+	read = {0},
 	title = {Data Attribution for Multitask Learning},
 	year = {2024}}
 
 @misc{tu2024reliable,
 	archiveprefix = {arXiv},
 	author = {Yiwen Tu and Pingbang Hu and Jiaqi Ma},
-	date-modified = {2024-10-28 13:32:34 -0700},
+	date-modified = {2024-10-30 20:09:28 -0700},
 	eprint = {2404.11577},
+	keywords = {Machine Unlearning, Privacy and Security, Membership Inference Attacks},
 	month = {April},
 	primaryclass = {cs.LG},
 	title = {Towards Reliable Empirical Machine Unlearning Evaluation: A Game-Theoretic View},
-	year = {2024}}
+	year = {2024},
+	bdsk-file-1 = {YnBsaXN0MDDSAQIDBFxyZWxhdGl2ZVBhdGhYYm9va21hcmtfEBYuLi8uLi8yNDA0LjExNTc3djIucGRmTxEDmGJvb2uYAwAAAAAEEDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJQCAAAFAAAAAQEAAFVzZXJzAAAABgAAAAEBAABldmFudHUAAAkAAAABAQAARG9jdW1lbnRzAAAAEAAAAAEBAAAyNDA0LjExNTc3djIucGRmEAAAAAEGAAAEAAAAFAAAACQAAAA4AAAACAAAAAQDAABdQgAAAAAAAAgAAAAEAwAA9hcEAAAAAAAIAAAABAMAACcYBAAAAAAACAAAAAQDAACqTg0AAAAAABAAAAABBgAAaAAAAHgAAACIAAAAmAAAAAgAAAAABAAAQcZplhaK+ZUYAAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAgAAAAEAwAAAgAAAAAAAAAEAAAAAwMAAPUBAAAIAAAAAQkAAGZpbGU6Ly8vDAAAAAEBAABNYWNpbnRvc2ggSEQIAAAABAMAAAAAhxE5AAAACAAAAAAEAABBxiUIIgAAACQAAAABAQAAQ0Y3MUQwRTMtQjgzQi00QkRELUI1NEEtMzBCNDZCMUNGOTIwGAAAAAECAACBAAAAAQAAAO8TAAABAAAAAAAAAAAAAAABAAAAAQEAAC8AAAAAAAAAAQUAANoAAAABAgAAOTdiMjhkYzEyNWFkNzc5ZWNjNGYyYWY2OTcyOWFkZDY1ZmI1YmM5M2YxZDIyOGE4M2Y0YmJiNmI5MzRhNTM5YTswMDswMDAwMDAwMDswMDAwMDAwMDswMDAwMDAwMDswMDAwMDAwMDAwMDAwMDIwO2NvbS5hcHBsZS5hcHAtc2FuZGJveC5yZWFkLXdyaXRlOzAxOzAxMDAwMDExOzAwMDAwMDAwMDAwZDRlYWE7NDg7L3VzZXJzL2V2YW50dS9kb2N1bWVudHMvMjQwNC4xMTU3N3YyLnBkZgAAAMwAAAD+////AQAAAAAAAAAQAAAABBAAAFAAAAAAAAAABRAAAKgAAAAAAAAAEBAAANAAAAAAAAAAQBAAAMAAAAAAAAAAAiAAAJwBAAAAAAAABSAAAAwBAAAAAAAAECAAABwBAAAAAAAAESAAAFABAAAAAAAAEiAAADABAAAAAAAAEyAAAEABAAAAAAAAICAAAHwBAAAAAAAAMCAAAKgBAAAAAAAAAcAAAPAAAAAAAAAAEcAAABQAAAAAAAAAEsAAAAABAAAAAAAAgPAAALABAAAAAAAAAAgADQAaACMAPAAAAAAAAAIBAAAAAAAAAAUAAAAAAAAAAAAAAAAAAAPY}}
 
 @inproceedings{pmlr-v198-ma22a,
 	abstract = {Establishing open and general benchmarks has been a critical driving force behind the success of modern machine learning techniques. As machine learning is being applied to broader domains and tasks, there is a need to establish richer and more diverse benchmarks to better reflect the reality of the application scenarios. Graph learning is an emerging field of machine learning that urgently needs more and better benchmarks. To accommodate the need, we introduce Graph Learning Indexer (GLI), a benchmark curation platform for graph learning. In comparison to existing graph learning benchmark libraries, GLI highlights two novel design objectives. First, GLI is designed to incentivize \emph{dataset contributors}. In particular, we incorporate various measures to minimize the effort of contributing and maintaining a dataset, increase the usability of the contributed dataset, as well as encourage attributions to different contributors of the dataset. Second, GLI is designed to curate a knowledge base, instead of a plain collection, of benchmark datasets. We use multiple sources of meta information to augment the benchmark datasets with \emph{rich characteristics}, so that they can be easily selected and used in downstream research or development. The source code of GLI is available at \url{https://github.com/Graph-Learning-Benchmarks/gli}. },
 	author = {Ma, Jiaqi and Zhang, Xingjian and Fan, Hezheng and Huang, Jin and Li, Tianyue and Li, Ting Wei and Tu, Yiwen and Zhu, Chenshu and Mei, Qiaozhu},
 	booktitle = {Proceedings of the First Learning on Graphs Conference},
+	date-modified = {2024-10-30 20:10:57 -0700},
 	editor = {Rieck, Bastian and Pascanu, Razvan},
+	keywords = {Graph Neural Networks},
 	month = {09--12 Dec},
 	pages = {7:1--7:23},
 	pdf = {https://proceedings.mlr.press/v198/ma22a/ma22a.pdf},
