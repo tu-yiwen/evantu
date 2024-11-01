@@ -6,4 +6,4 @@ inline:  true
 related_posts: false
 ---
 
-Our paper "Graph learning indexer: a contributor-friendly and metadata-rich platform for graph learning benchmarks" is accepted <a style="color: red;"> oral </a> at <a hred= "http://log2022.logconference.org"> LOG 2022 </a>!
+Our paper "Graph learning indexer: a contributor-friendly and metadata-rich platform for graph learning benchmarks" is accepted <a style="color: red;"> oral </a> at <a href= "http://log2022.logconference.org"> LOG 2022 </a>!
