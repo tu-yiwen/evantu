@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Yiwen Tu",
-    "label": "Incoming MSCS @ University of California, San Diego",
+    "label": "First-year MSCS @ University of California, San Diego",
     "image": "",
     "email": "y2tu@ucsd.edu",
     "phone": "(734) 877-0677",
     "url": "https://tu-yiwen.github.io/evantu/",
     "summary": "",
     "location": {
-      "address": "1835 Shirley Ln",
-      "postalCode": "MI 48105",
-      "city": "Ann Arbor",
+      "address": "3869 Miramar Street",
+      "postalCode": "CA 92039",
+      "city": "San Diego",
       "countryCode": "US",
-      "region": "Michigan"
+      "region": "United States"
     },
     "profiles": [
       {
@@ -23,24 +23,47 @@
     ]
   },
   "work": [
-    {
-      "company": "University of Michigan",
-      "position": "Research Assistant",
-      "url": "https://umich.edu/",
-      "startDate": "2019-09-01",
-      "endDate": "2020-12-01",
-      "summary": "Research on quantum computing and quantum information theory.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"]
-    },
-    {
-      "company": "University of Michigan",
-      "position": "Teaching Assistant",
-      "url": "https://umich.edu/",
-      "startDate": "2019-09-01",
-      "endDate": "2020-12-01",
-      "summary": "Teaching assistant for the course EECS 598: Quantum Computing.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"]
-    }
+    [
+      {
+        "company": "University of Illinois, Urbana-Champaign",
+        "position": "Research Intern",
+        "url": "https://jiaqima.github.io",
+        "startDate": "2024-07-01",
+        "endDate": "2024-10-01",
+        "summary": "Research on the intersection of data attribution and multi-task learning (MTL).",
+        "highlights": [
+          "Established a new link between data attribution and MTL, demonstrating data attribution's effectiveness in measuring task relatedness.",
+          "Developed MTIF, a scalable data attribution method for fine-grained analysis of data influence in MTL.",
+          "Conducted extensive experiments demonstrating the practical usefulness of the proposed method."
+        ]
+      },
+      {
+        "company": "University of Illinois, Urbana-Champaign",
+        "position": "Independent Researcher",
+        "url": "https://jiaqima.github.io",
+        "startDate": "2023-06-01",
+        "endDate": "2024-5-23",
+        "summary": "Research on data removal efficacy and unlearning sample inference.",
+        "highlights": [
+          "Formalized the unlearning sample inference game and established a new unlearning evaluation metric.",
+          "Demonstrated provable properties of the metric, avoiding issues of existing MIA-based metrics.",
+          "Developed an effective method for empirical analysis, validated through theoretical and experimental evaluation."
+        ]
+      },
+      {
+        "company": "University of Michigan, Ann Arbor",
+        "position": "Research Intern",
+        "url": "http://foreseer.si.umich.edu",
+        "startDate": "2023-06-01",
+        "endDate": "2023-09-01",
+        "summary": "Developed a platform to improve graph learning benchmark curation.",
+        "highlights": [
+          "Created a contributor-friendly platform for better dataset maintenance, usability, and contributor attribution.",
+          "Maintained large-scale datasets like Open Graph Benchmark, MNIST, and CIFAR, handling millions of nodes and billions of edges.",
+          "Co-authored a research paper presented at the Learning on Graphs conference, showcasing advancements in graph learning."
+        ]
+      }
+    ]
   ],
   "volunteer": [
     {
@@ -55,18 +78,47 @@
     }
   ],
   "education": [
-    {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
+  {
+    "institution": "UC San Diego",
+    "location": "California, United States",
+    "url": "https://ucsd.edu/",
+    "area": "Computer Science",
+    "studyType": "Master",
+    "startDate": "2024-09-26",
+    "endDate": "2026-06-10",
+    "courses": ["Differential Privacy", "Probabilistic Learning", "Computer Security"]
+  },
+  {
+    "institution": "University of Michigan, Ann Arbor",
+    "location": "Michigan, United States",
+    "url": "https://umich.edu/",
+    "area": "Computer Science",
+    "studyType": "Undergraduate",
+    "startDate": "2022-08-31",
+    "endDate": "2024-05-06",
+    "score": "GPA 3.95/4.0, Summa Cum Laude",
+    "courses": ["Computer Vision", "NLP", "ML Theory", "Convex Optimization", "Database Management Systems", "Web Systems", "Cryptography"]
+  },
+  {
+    "institution": "UM-SJTU Joint Institute",
+    "location": "Shanghai, China",
+    "url": "https://umji.sjtu.edu.cn/",
+    "area": "Computer Science",
+    "studyType": "Undergraduate",
+    "startDate": "2020-09-01",
+    "endDate": "2024-08-10",
+    "courses": ["Computer Architecture", "Mathematical Analysis", "Linear Algebra"]
+  },
+  {
+    "institution": "Shanghai High School",
+    "location": "Shanghai, China",
+    "url": "http://www.shs.cn/",
+    "area": "General Education",
+    "studyType": "High School",
+    "startDate": "2017-09-01",
+    "endDate": "2020-07-01"
+  }
+],
   "awards": [
     {
       "title": "Nobel Prize in Physics",
