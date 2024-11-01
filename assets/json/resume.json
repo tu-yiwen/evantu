@@ -78,7 +78,7 @@
     }
   ],
   "education": [
-  {
+  [{
     "institution": "UC San Diego",
     "location": "California, United States",
     "url": "https://ucsd.edu/",
@@ -117,7 +117,7 @@
     "studyType": "High School",
     "startDate": "2017-09-01",
     "endDate": "2020-07-01"
-  }
+  }]
 ],
   "awards": [
     {
