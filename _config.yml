@@ -328,14 +328,14 @@ filtered_bibtex_keywords:
     abstract,
     additional_info,
     altmetric,
-    arxiv,
+    # arxiv,
     award,
     award_name,
     bibtex_show,
     blog,
     code,
     html,
-    pdf,
+    # pdf,
     poster,
     preview,
     selected,
@@ -592,11 +592,11 @@ jsonresume:
   - work
   - education
   - publications
-  - projects
+  # - projects
   # - volunteer
   # - awards
   # - certificates
   - skills
   - languages
-  - interests
+  # - interests
   - references
