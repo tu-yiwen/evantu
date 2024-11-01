@@ -23,62 +23,48 @@
     ]
   },
   "work": [
-    [
-      {
-        "company": "University of Illinois, Urbana-Champaign",
-        "position": "Research Intern",
-        "url": "https://jiaqima.github.io",
-        "startDate": "2024-07-01",
-        "endDate": "2024-10-01",
-        "summary": "Research on the intersection of data attribution and multi-task learning (MTL).",
-        "highlights": [
-          "Established a new link between data attribution and MTL, demonstrating data attribution's effectiveness in measuring task relatedness.",
-          "Developed MTIF, a scalable data attribution method for fine-grained analysis of data influence in MTL.",
-          "Conducted extensive experiments demonstrating the practical usefulness of the proposed method."
-        ]
-      },
-      {
-        "company": "University of Illinois, Urbana-Champaign",
-        "position": "Independent Researcher",
-        "url": "https://jiaqima.github.io",
-        "startDate": "2023-06-01",
-        "endDate": "2024-5-23",
-        "summary": "Research on data removal efficacy and unlearning sample inference.",
-        "highlights": [
-          "Formalized the unlearning sample inference game and established a new unlearning evaluation metric.",
-          "Demonstrated provable properties of the metric, avoiding issues of existing MIA-based metrics.",
-          "Developed an effective method for empirical analysis, validated through theoretical and experimental evaluation."
-        ]
-      },
-      {
-        "company": "University of Michigan, Ann Arbor",
-        "position": "Research Intern",
-        "url": "http://foreseer.si.umich.edu",
-        "startDate": "2023-06-01",
-        "endDate": "2023-09-01",
-        "summary": "Developed a platform to improve graph learning benchmark curation.",
-        "highlights": [
-          "Created a contributor-friendly platform for better dataset maintenance, usability, and contributor attribution.",
-          "Maintained large-scale datasets like Open Graph Benchmark, MNIST, and CIFAR, handling millions of nodes and billions of edges.",
-          "Co-authored a research paper presented at the Learning on Graphs conference, showcasing advancements in graph learning."
-        ]
-      }
+  {
+    "company": "University of Illinois, Urbana-Champaign",
+    "position": "Research Intern",
+    "url": "https://jiaqima.github.io",
+    "startDate": "2024-07-01",
+    "endDate": "2024-10-01",
+    "summary": "Research on the intersection of data attribution and multi-task learning (MTL).",
+    "highlights": [
+      "Established a new link between data attribution and MTL, demonstrating data attribution's effectiveness in measuring task relatedness.",
+      "Developed MTIF, a scalable data attribution method for fine-grained analysis of data influence in MTL.",
+      "Conducted extensive experiments demonstrating the practical usefulness of the proposed method."
     ]
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
-  "education": [
-  [{
+  },
+  {
+    "company": "University of Illinois, Urbana-Champaign",
+    "position": "Independent Researcher",
+    "url": "https://jiaqima.github.io",
+    "startDate": "2023-06-01",
+    "endDate": "2024-05-23",
+    "summary": "Research on data removal efficacy and unlearning sample inference.",
+    "highlights": [
+      "Formalized the unlearning sample inference game and established a new unlearning evaluation metric.",
+      "Demonstrated provable properties of the metric, avoiding issues of existing MIA-based metrics.",
+      "Developed an effective method for empirical analysis, validated through theoretical and experimental evaluation."
+    ]
+  },
+  {
+    "company": "University of Michigan, Ann Arbor",
+    "position": "Research Intern",
+    "url": "http://foreseer.si.umich.edu",
+    "startDate": "2023-06-01",
+    "endDate": "2023-09-01",
+    "summary": "Developed a platform to improve graph learning benchmark curation.",
+    "highlights": [
+      "Created a contributor-friendly platform for better dataset maintenance, usability, and contributor attribution.",
+      "Maintained large-scale datasets like Open Graph Benchmark, MNIST, and CIFAR, handling millions of nodes and billions of edges.",
+      "Co-authored a research paper presented at the Learning on Graphs conference, showcasing advancements in graph learning."
+    ]
+  }
+],
+"education": [
+  {
     "institution": "UC San Diego",
     "location": "California, United States",
     "url": "https://ucsd.edu/",
@@ -117,8 +103,9 @@
     "studyType": "High School",
     "startDate": "2017-09-01",
     "endDate": "2020-07-01"
-  }]
+  }
 ],
+
   "awards": [
     {
       "title": "Nobel Prize in Physics",
